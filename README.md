@@ -1,6 +1,6 @@
 # Mech105-Algorithms
 Mechanical Engineering Propblem Solving algoritms for numerical operations that include
-+Simple Electrical Circuit
+*Simple Electrical Circuit*
 *Degradation of Aqueous Bromide
 *Volume in Tank
 *Creating a special n x m Matrix
